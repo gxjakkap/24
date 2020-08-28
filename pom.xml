@@ -1,5 +1,5 @@
 <project>
-  <modelVersion>1.0</modelVersion>
+  <modelVersion>4.0.0</modelVersion>
  
   <groupId>me.guntxjakka.24</groupId>
   <artifactId>24-solver</artifactId>
